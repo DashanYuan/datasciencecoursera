@@ -1,8 +1,2 @@
----
-title: "HelloWorld.md"
-author: "Dashan Yuan"
-date: "26/01/2022"
-output: pdf_document
----
 
 ## This is a markdown file
